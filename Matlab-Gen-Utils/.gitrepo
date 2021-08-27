@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.berkeley.edu/RCohenLab/Matlab-Gen-Utils.git
+	branch = develop
+	commit = 65d2758825ccf6fcf21026131643019d5e307306
+	parent = f300e7d15167bb1f900b644c2e5c27ad3e227633
+	method = merge
+	cmdver = 0.4.3
