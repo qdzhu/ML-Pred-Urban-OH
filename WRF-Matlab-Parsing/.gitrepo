@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.berkeley.edu/RCohenLab/WRF-Matlab-Parsing.git
+	branch = master
+	commit = 477ef4ec15e10a744d3b9f7d33714c72c28317d5
+	parent = 63f68e3a6bef7eeb83d1fbe316f77ba6d0109da1
+	method = merge
+	cmdver = 0.4.3
